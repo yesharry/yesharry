@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ### 🛠 Skills
 
-# Languages
-<img src="https://simpleicons.org/icons/html5.svg?style=flat-square&logo=Android&logoColor=white"/>
-
+#### Languages
