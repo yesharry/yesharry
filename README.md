@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesharry&show_icons=true&theme=radical)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesharry&layout=compact"><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesharry&layout=compact"><br> -->
