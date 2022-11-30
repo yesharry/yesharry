@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <br>
 
 ### 👩🏻‍💻 YESHARRY's Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesharry&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesharry&show_icons=true&theme=transparent)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesharry&layout=compact"><br>
 
