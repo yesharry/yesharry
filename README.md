@@ -1,4 +1,4 @@
-### 👋👋 안녕하세요! 오늘도 성장중인 프론트엔드 개발자 노해리입니다!
+### 안녕하세요, 오늘도 성장중인 프론트엔드 개발자 노해리입니다!
 
 <!--
 **yesharry/yesharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
