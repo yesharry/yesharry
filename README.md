@@ -3,8 +3,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YES!%20HAERi&fontSize=45&fontColor=232F3E) -->
  
  <br />
- 👋 안녕하세요, <br />
- 오늘도 성장중인 프론트엔드 개발자 노해리입니다.
+ 👋 안녕하세요, 프론트엔드 개발자 노해리입니다.
  <br />
  <br />
 
